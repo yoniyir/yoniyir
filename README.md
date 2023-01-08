@@ -1,6 +1,8 @@
 # Yoni Yirmiyahu
 
-I am a creative, ambitious, final year student in computer science, highly passionate, and responsible, who is seeking a student position job. I have high learning abilities and excellent customer service relationships. I am eager to absorb as much knowledge and insight as possible and interested in working in a dynamic meaningful workspace environment.
+I am a creative, ambitious, final year student in computer science, highly passionate, and responsible, who is seeking a student position job.
+I have high learning abilities and excellent customer service relationships.
+I am eager to absorb as much knowledge and insight as possible and interested in working in a dynamic meaningful workspace environment.
 
 ## Get in touch
 
